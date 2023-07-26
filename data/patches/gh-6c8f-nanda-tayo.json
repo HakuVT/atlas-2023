@@ -1,0 +1,39 @@
+{
+	"id": -1,
+	"name": "Nanda Tayo",
+	"description": "Hello! I'm Nanda Tayo, can you call me Nanda, a Venezuelan Vtuber who loves to draw and talk a lot about anything, I'm 20 years old, I usually do very varied streams but especially Valorant, Minecraft, Genshin, Gartic and whatever comes >w< 💜",
+	"links": {
+		"website": [
+			"https://www.twitch.tv/NandaTayo"
+		],
+		"discord": [
+			"yVZvHcEQYT"
+		]
+	},
+	"path": {
+		"254": [
+			[
+				-136,
+				947
+			],
+			[
+				-110,
+				947
+			],
+			[
+				-110,
+				970
+			],
+			[
+				-136,
+				970
+			]
+		]
+	},
+	"center": {
+		"254": [
+			-123,
+			959
+		]
+	}
+}
